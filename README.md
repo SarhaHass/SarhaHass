@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sarha Hass Amaro
+- 👋 Hi, I’m Sam Hass Amaro
 - 👀 I’m interested in develop games
 - 🌱 I’m currently learning computational thinking 
 - 💞️ I’m looking to collaborate on ...
